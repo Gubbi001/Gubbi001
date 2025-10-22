@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Gubbi001
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me mail: abhaynaik001@gmail.com
 
 <!---
